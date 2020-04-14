@@ -105,7 +105,7 @@ Korzyści:
 * Dzięki zwiększeniu skuteczności wyszukiwania - zmniejszyła się liczba błędów o ok. 10-15%
 
 
-### Odblokowywacz(Java, C#)
+### Odblokowywacz (Java, C#)
 
 W starym systemie księgowo-sprzedażowym był błąd polegający na niespodziewanym blokowaniu dokumentów do edycji. Napisałem aplikację pozwalającą naprawić błędnie założone blokady pracownikom, przez co nie potrzebowali wsparcia działu IT.
 
