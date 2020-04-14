@@ -16,8 +16,10 @@ Korzyści:
 Zamiast biegać z papierami albo wysyłać maile do przełożonych pracownik wypisywał sobie na stronie podanie o urlop. Przełożony dostawał maila, z informacją o prośbie o zatwierdzenie urlopu. Jak zatwierdził, pracownik (a za nim kadry) dostawał maila, że ma urlop, w przeciwnym razie dostawał maila z odmową. 
 
 Korzyści:
-* Przyspieszenie obiegu dokumentów z paru godzin lub dni do ok. godziny</li><li>Podgląd stanu pracowników przez PMów</li>
-* Oszczędność czasu pracowników oraz PMów na wypełnianiu pisemnej formy dokumentów.</li><li>Używana przez ok. 100 osób</li>
+* Przyspieszenie obiegu dokumentów z paru godzin lub dni do ok. godziny
+* Podgląd stanu pracowników przez PMów
+* Oszczędność czasu pracowników oraz PMów na wypełnianiu pisemnej formy dokumentów.
+* Używana przez ok. 100 osób
 * Podgląd działu HR w plany urlopowe.
 
 
@@ -46,7 +48,8 @@ Korzyści:
 W starym systemie księgowo-sprzedażowym był błąd polegający na niespodziewanym blokowaniu dokumentów do edycji. Napisałem aplikację pozwalającą naprawić błędnie założone blokady pracownikom, przez co nie potrzebowali wsparcia działu IT.
 
 Korzyści:
-* Szybsza praca biura - oszczędzono ok. 16 roboczogodzin miesięcznie</li><li>Brak zatorów w IT spowodowanych ilością próśb o odblokowanie czegoś zwłaszcza pod koniec miesiąca. (oszczędzono ok. 8 roboczogodzin miesięcznie)
+* Szybsza praca biura - oszczędzono ok. 16 roboczogodzin miesięcznie
+* Brak zatorów w IT spowodowanych ilością próśb o odblokowanie czegoś zwłaszcza pod koniec miesiąca. (oszczędzono ok. 8 roboczogodzin miesięcznie)
 * Używana przez ok. 20 osób/4 działy.
   
 Projekt na GitHubie (Java): https://github.com/marek-witkowski/jUnLocker
