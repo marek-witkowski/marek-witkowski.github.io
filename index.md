@@ -96,7 +96,7 @@ Korzyści:
 * Zminimalizowano przerwy w pracy ze względu na problemy z siecią/awarię aplikacji z ok 70% do 99%
 
 
-### Generator lokalizacji (C#, ZPL>)
+### Generator lokalizacji (C#, ZPL)
 
 Łatka na system, umożliwiająca pracownikom magazynu drukować naklejki magazynowe na drukarkach etykiet. 
 
