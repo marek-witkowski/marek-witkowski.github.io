@@ -52,8 +52,7 @@ Korzyści:
 * Brak zatorów w IT spowodowanych ilością próśb o odblokowanie czegoś zwłaszcza pod koniec miesiąca. (oszczędzono ok. 8 roboczogodzin miesięcznie)
 * Używana przez ok. 20 osób/4 działy.
   
-Projekt na GitHubie (Java): https://github.com/marek-witkowski/jUnLocker
-Projekt na GitHubie   (C#): https://github.com/marek-witkowski/UnLocker
+Projekt na GitHubie (Java): https://github.com/marek-witkowski/jUnLocker (C#): https://github.com/marek-witkowski/UnLocker
 
 
 ### Raportownik (Java, Oracle)
@@ -67,7 +66,7 @@ Korzyści:
 
 Projekt na GitHubie: https://github.com/marek-witkowski/EasyReports
 
-## Archiwizator faktur (MS SQL, C#)
+### Archiwizator faktur (MS SQL, C#)
 
 Faktury w dużych ilościach były drukowane i wysyłane klientom wraz z towarem. Napisałem program archiwizujący wysłane faktury w formie plików PDF, dzięki czemu pracownicy potrzebujący ponownie wysłać komuś dokument albo księgowość chcąc coś sprawdzić - nie musieli ponownie drukować dokumentu (wada starego systemu), tylko korzystali z archiwum plikowego. 
 
@@ -77,7 +76,7 @@ Korzyści:
 
 Projekt na GitHubie: https://github.com/marek-witkowski/ArchiwizatorFaktur
 
-## Wykres obciążenia magazynów (PHP, JS)
+### Wykres obciążenia magazynów (PHP, JS)
 
 Kierownicy magazynu mieli wykresy, na których widzieli, ile zamówień spływa na konkretne magazyny i wg tego mogli kierować pracą zespołu.
 
